@@ -11,8 +11,8 @@ export const Hero = () => {
        <p className={styles.description}>
         A skilled web developer with expertise in the MERN stack and a focus on full-stack solutions. Feel free to connect for collaboration.
        </p>
-        <a href="./../../../assets/Resume.pdf" download className={styles.contactBtn}>
-          Resume
+        <a href="mailto: talishtarik1234@gmail.com" className={styles.contactBtn}>
+          Contact me
         </a>
       </div>
       <img
