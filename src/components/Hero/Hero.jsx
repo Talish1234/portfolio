@@ -11,7 +11,7 @@ export const Hero = () => {
        <p className={styles.description}>
         A skilled web developer with expertise in the MERN stack and a focus on full-stack solutions. Feel free to connect for collaboration.
        </p>
-        <a href="../../../assets/Resume.pdf" download className={styles.contactBtn}>
+        <a href="./../../../assets/Resume.pdf" download className={styles.contactBtn}>
           Resume
         </a>
       </div>
