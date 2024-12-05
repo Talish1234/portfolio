@@ -1,0 +1,26 @@
+[
+  {
+    "title": "BlogBytes",
+    "imageSrc": "projects/blogbytes.png",
+    "description": "Implemented rich text editing, category tagging, and user authentication features for better user experience.",
+    "skills": ["React", "Express", "Node","Sass"],
+    "demo": "https://blogbytes-conq.onrender.com",
+    "source": "https://github.com/Talish1234/blogApp_frontend"
+  },
+  {
+    "title": "Property Pulse",
+    "imageSrc": "projects/propertypulse.png",
+    "description": "Designed a scalable MERN application with advanced property search and real-time chat features.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://real-estate-frontend-woad.vercel.app/",
+    "source": "https://github.com/Talish1234/mern-real-estate"
+  },
+  {
+    "title": "Natours",
+    "imageSrc": "projects/natours.png",
+    "description": "Built a mobile friendly, responsive UI using CSS and Pug for seamless booking experiences.",
+    "skills": ["Pug", "Express", "Node"],
+    "demo": "https://natours.dev",
+    "source": "https://github.com/Talish1234/Natours"
+  }
+]

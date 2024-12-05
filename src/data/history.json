@@ -1,0 +1,32 @@
+[
+  {
+    "role": "React Js Developer",
+    "organisation": "Great Learning",
+    "startDate": "Jan, 2023",
+    "endDate": "Mar, 2023",
+    "experiences": [ "Built dynamic web apps",
+    "Component reusability"],
+    "imageSrc": "history/gl.png"
+  },
+  {
+    "role": "API Bootcamp Participant",
+    "organisation": "GeeksforGeeks",
+    "startDate": "Mar, 2023",
+    "endDate": "Apr, 2023",
+    "experiences": ["Learned API design and testing",
+      "Gained skills in API documentation"],
+    "imageSrc": "history/gfg.jpeg"
+  },
+  {
+    "role": "Fullstack Developer",
+    "organisation": "GeeksforGeeks",
+    "startDate": "Apr, 2023",
+    "endDate": "Nov, 2023",
+    "experiences": [ 
+      "Built apps with React.js, Node.js, and MongoDB",
+      "Developed REST APIs",
+      "Created responsive UIs"
+    ],
+    "imageSrc": "history/gfg.jpeg"
+  }
+]
